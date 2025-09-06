@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "2024_Slum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "Juni Wadarwadi Golandaj Chowk Shivajinagar Pune" }, "geometry": { "type": "Point", "coordinates": [ 73.8364446, 18.5279727 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "prabhAga. kra 20, 26 veleslI roDa gArapIra masjida, sTeTa ba.Nka javaLa, puNe 411001" }, "geometry": { "type": "Point", "coordinates": [ 73.8760153, 18.5296029 ] } }
+]
+}

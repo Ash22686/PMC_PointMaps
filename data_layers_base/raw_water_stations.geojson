@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "raw_water_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 73.772567417898301, 18.439126534521758 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 73.772813775035118, 18.439503022921777 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 73.726905980464238, 18.843389214331623 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 73.745371136570427, 18.640891674576579 ] } }
+]
+}

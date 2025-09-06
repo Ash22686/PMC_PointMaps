@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "2023_Slum",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "rAjamAtA jijAU nagara.sutaradra sarve naMbara.112 dakShina mukhI mArUtI maMdira samora , Pune, Maharashtra" }, "geometry": { "type": "Point", "coordinates": [ 73.9496217, 18.4972593 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "Sr.No 128/5B Phalke Plot, near Shani Maruti Mandir Pune 411030" }, "geometry": { "type": "Point", "coordinates": [ 73.8537763, 18.5130285 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "Sai Chowk, Sus Road, Pashan, Pune, Maharashtra" }, "geometry": { "type": "Point", "coordinates": [ 73.785779, 18.543369 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "sarve naMbara 112 oma sAI ka lanI rAjamAtA jijAU gallI kramAMka 31 , Pune, Maharashtra" }, "geometry": { "type": "Point", "coordinates": [ 73.8865556, 18.585837 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": " rAjamAtA jijAU nagara sutAradarA pAMDuraMga ka lanI gallI naMbara 29 mahesha khopakara yAMchyA gharAjavaLa \n, Pune, Maharashtra" }, "geometry": { "type": "Point", "coordinates": [ 73.8786239, 18.5246091 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "Sutardara rAjamAtA jijAU nagara kotharuDa dakShiNa mukhI mArutI maMdira samora mena roDa, Pune, Maharashtra" }, "geometry": { "type": "Point", "coordinates": [ 73.9496217, 18.4972593 ] } },
+{ "type": "Feature", "properties": { "ccd_name": "Other (Slum)", "com_location": "Sakal Nagar Aundh Pune Maharashtra  India" }, "geometry": { "type": "Point", "coordinates": [ 73.786967, 18.5590797 ] } }
+]
+}
